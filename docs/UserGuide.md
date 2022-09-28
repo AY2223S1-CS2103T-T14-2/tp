@@ -72,6 +72,18 @@ Shows a message explaning how to access the help page.
 
 Format: `help`
 
+### Managing tasks
+
+### Listing all tasks : `list`
+
+Shows a list of all tasks.
+
+Format: `list` /  `list time`
+ 
+* List displays a list of all tasks in the order of most recent task added
+* List time displays a list of all tasks in the order of nearest deadline
+
+### Managing contacts
 
 ### Adding a person: `add`
 
@@ -87,11 +99,11 @@ Examples:
 * `add n/John Doe p/98765432 e/johnd@example.com a/John street, block 123, #01-01`
 * `add n/Betsy Crowe t/friend e/betsycrowe@example.com a/Newgate Prison p/1234567 t/criminal`
 
-### Listing all persons : `list`
+### Listing all persons : `listc`
 
 Shows a list of all persons in the address book.
 
-Format: `list`
+Format: `listc`
 
 ### Editing a person : `edit`
 
