@@ -14,7 +14,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/Songivan.png" width="200px">
 
 [[github](https://github.com/songivan00)]
-[[portfolio](team/songivan.md)]
+[[portfolio](team/songivan00.md)]
 
 * Role: Developer
 * Responsibilities: Listing/sorting tasks and contacts features
